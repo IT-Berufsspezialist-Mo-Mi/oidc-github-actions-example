@@ -1,0 +1,10 @@
+Hallo
+das 
+lade
+ich
+jetzt
+auf 
+ein s3
+bucket per 
+cicd 
+pipeline
